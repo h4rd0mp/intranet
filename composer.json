@@ -1,0 +1,11 @@
+{
+    "extra": {
+        "google/apiclient-services": [
+            "Drive",
+            "YouTube"
+        ]
+    },
+    "require": {
+        "google/apiclient": "^2.7"
+    }
+}
